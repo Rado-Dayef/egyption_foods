@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656786692910",
+    "project_id": "egyption-foods",
+    "storage_bucket": "egyption-foods.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656786692910:android:a38f1fffcec1430769b8bf",
+        "android_client_info": {
+          "package_name": "com.example.egyption_foods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaId_bDxK8s0l8PYrReDGFAnzZKaGZOG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
